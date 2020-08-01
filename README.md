@@ -17,3 +17,8 @@ Flow Email Composer is a lightning component that provides the ability to select
 3. Drag and drop Screen Element to the canvas.
 4. Select the component, Flow Email Composer in the Screen Component search wizard.
 5. Specify the values for whatId, To, CC, Bcc, Subject. The body of email uses whatId to evaluate the merge fields in selected email template. You can also use flow variables to populate these attributes
+
+<a href="https://githubsfdeploy.herokuapp.com">
+  <img alt="Deploy to Salesforce"
+       src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
+</a>
